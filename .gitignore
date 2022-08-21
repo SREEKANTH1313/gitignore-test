@@ -1,0 +1,3 @@
+
+log/ it is used log all files
+log/*.txt is used to log txt files
